@@ -1,0 +1,25 @@
+{
+  "name": "DHUtilsPod",
+  "version": "0.1.0",
+  "summary": "A short description of DHUtilsPod.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/DHUtilsPod",
+  "license": "MIT",
+  "authors": {
+    "Tony Duan": "duanhai@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/DHUtilsPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "DHUtilsPod": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

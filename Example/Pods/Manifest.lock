@@ -1,0 +1,17 @@
+PODS:
+  - DHUtilsPod (0.1.0)
+  - Kiwi (2.4.0)
+
+DEPENDENCIES:
+  - DHUtilsPod (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  DHUtilsPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DHUtilsPod: 200c57deada9430e2a850cd9b90272cc438c65cc
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+
+COCOAPODS: 0.39.0

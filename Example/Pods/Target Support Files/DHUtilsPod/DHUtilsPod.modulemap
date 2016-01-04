@@ -1,0 +1,6 @@
+framework module DHUtilsPod {
+  umbrella header "DHUtilsPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
